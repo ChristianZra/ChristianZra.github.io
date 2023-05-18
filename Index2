@@ -1,82 +1,44 @@
-var xPos = 125;
-var yPos = 265;
-var aPos = 122;
-var bPos = 268;
-var cPos = 119;
-var dPos = 271;
-var ePos = 116;
-var fPos = 274;
-var gPos = 114;
-var hPos = 276;
-var iPos = 113;
-var jPos = 277;
-var kPos = 111;
-var lPos = 279;
-var mPos = 109;
-var nPos = 281;
-var oPos = 108;
-var pPos = 282;
-var qPos = 107;
-var rPos = 282;
-
-draw = function(){
-    noStroke();
-    background(0, 38, 84);
-    fill(217, 208, 126);
-    ellipse(80, 83, 140, 151);
-    fill(0, 38, 84);
-    ellipse(120, 83, 140, 151);
-    fill(250, 240, 100);
-    noStroke();
-    ellipse(xPos, yPos, 10, 10);
-    ellipse(aPos, bPos, 9, 9);
-    ellipse(cPos, dPos, 8, 8);
-    ellipse(ePos, fPos, 7, 7);
-    ellipse(gPos, hPos, 6, 6);
-    ellipse(iPos, jPos, 5, 5);
-    ellipse(kPos, lPos, 4, 4);
-    ellipse(mPos, nPos, 3, 3);
-    ellipse(oPos, pPos, 2, 2);
-    ellipse(qPos, rPos, 1, 1);
-    xPos+=3;
-    yPos-=3;
-    aPos+=3;
-    bPos-=3;
-    cPos+=3;
-    dPos-=3;
-    ePos+=3;
-    fPos-=3;
-    gPos+=3;
-    hPos-=3;
-    iPos+=3;
-    jPos-=3;
-    kPos+=3;
-    lPos-=3;
-    mPos+=3;
-    nPos-=3;
-    oPos+=3;
-    pPos-=3;
-    qPos+=3;
-    rPos-=3;
-    fill(143, 135, 110);
-    ellipse(84, 307, 4, 4);
-    ellipse(239, 49, 4, 4);
-    ellipse(36, 350, 4, 4);
-    ellipse(213, 321, 4, 4);
-    ellipse(30, 225, 4, 4);
-    ellipse(357, 152, 4, 4);
-    ellipse(161, 118, 4, 4);
-    ellipse(297, 368, 4, 4);
-    ellipse(187, 199, 4, 4);
-    ellipse(274, 140, 4, 4);
-    ellipse(141, 364, 4, 4);
-    ellipse(345, 243, 4, 4);
-    ellipse(297, 309, 4, 4);
-    ellipse(350, 46, 4, 4);
-    ellipse(257, 232, 4, 4);
-    ellipse(148, 250, 4, 4);
-    ellipse(365, 347, 4, 4);
-    ellipse(123, 54, 4, 4);
-    ellipse(122, 192, 4, 4);
-};
-
+﻿<!DOCTYPE html><!-- Christian Zra -->
+<html>
+<title>HTML Quiz 1</title>
+<head>
+</head>
+<body>
+<h1>HTML Quiz 1</h1>
+<div>
+    <p>
+        My 3 Favorite foods<br>
+      <ol>
+       <li><a href= "https://en.wikipedia.org/wiki/Pizza">Pizza</a></li><br>
+        <li>Pasta</li><br>
+        <li>Ice Cream</li>
+        </ol>
+    </p>
+    <p>
+       School is very important<br>
+       and at times very difficult<br>
+       but I have to attend for my future.<br>
+       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Humbergrove_Secondary_School.jpg/275px-Humbergrove_Secondary_School.jpg" width= "300" height= "200" alt="School">
+    </p>
+    <table>
+        <tr>
+            <th>Subject</th>
+            <th>Marks</th>
+            </tr>
+            <tr>
+                <td>Math</td>
+                <td>95</td>
+            </tr>
+            <tr>
+                <td>Science</td>
+                <td>90</td>
+            </tr>
+            <tr>
+                <td>English</td>
+            <td>88</td>
+            </tr>
+    </table>
+    <b><em>I Finished My First HTML Quiz</em></b>
+</div>
+</body>
+</html>
