@@ -38,4 +38,25 @@ Body{
     top:-625px;
     left:375px;
 }
-    
+      #batfamily{
+        position:relative;
+        height:450px;
+        width:600px;
+        top:-10px;
+        left:275px;
+    }
+    #leaders{
+        position:relative;
+        top:-450px;
+        left:30px;
+    }
+    #mainmembers{
+        position:relative;
+        top:-760px;
+        left:900px;
+    }
+    #news{
+        position:relative;
+        top:-630px;
+        left:;
+    }
