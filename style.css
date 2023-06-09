@@ -20,6 +20,18 @@ Body{
 #title2{
     text-align:center;
 }
+#bats1{
+    position:relative;
+    top:-150px;
+    left:105px;
+    height:150px;
+}
+#bats2{
+    position:relative;
+    top:-150px;
+    left:565px;
+    height:150px;
+}
 #history{
     text-align:center;
 }
