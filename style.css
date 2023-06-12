@@ -59,13 +59,13 @@ Body{
     }
     #leaders{
         position:relative;
-        top:-760px;
-        left:900px;
+        top:-450px;
+        left:30px;
     }
     #mainmembers{
         position:relative;
-        top:-450px;
-        left:30px;
+        top:-760px;
+        left:900px;
     }
     #news{
         position:relative;
