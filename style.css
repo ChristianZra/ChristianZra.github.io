@@ -76,3 +76,80 @@ Body{
     position:relative;
     top:-1050px;
     left:1050px;
+
+     #pic2{
+       position:relative;
+       top:-500px;
+       left:170px;
+       height:600px;
+   }
+   #discription{
+       position:relative;
+       top:-987px;
+       left:830px;
+       
+   }
+   #classes{
+       text-align:center;
+       position:relative;
+       top:-920px;
+   }
+   
+   #class1{
+       position:relative;
+       left:10px;   
+       top:-900px;
+   }
+   #class2{
+       position:relative;
+       left:250px;
+       top:-1105px;
+   }
+   
+   #class3{
+       position:relative;
+       left:460px;
+       top:-1307px;
+   }
+   
+   #class4{
+       position:relative;
+       left:680px;
+       top:-1490px;
+   }
+   
+   #class5{
+       position:relative;
+       left:900px;
+       top:-1690px;
+   }
+   
+   #class6{
+       position:relative;
+       left:10px;
+       top:-1700px;
+   }
+   
+   #class7{
+       position:relative;
+       left:250px;
+       top:-1920px;
+   }
+   
+   #class8{
+       position:relative;
+       left:460px;
+       top:-2175px;
+   }
+   
+   #class9{
+       position:relative;
+       left:680px;
+       top:-2394px;
+   }
+   
+   #class10{
+       position:relative;
+       left:910px;
+       top:-2590px;
+   }
